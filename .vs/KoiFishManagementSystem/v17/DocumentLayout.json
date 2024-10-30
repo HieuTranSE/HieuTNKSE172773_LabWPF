@@ -1,0 +1,656 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Hieu\\Hieu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE390B9D-F05D-4F35-A640-335061C9F894}|KoiManagementWPF\\KoiManagementWPF.csproj|d:\\hieu\\hieu\\koimanagementwpf\\koifishmanagement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FE390B9D-F05D-4F35-A640-335061C9F894}|KoiManagementWPF\\KoiManagementWPF.csproj|solutionrelative:koimanagementwpf\\koifishmanagement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE390B9D-F05D-4F35-A640-335061C9F894}|KoiManagementWPF\\KoiManagementWPF.csproj|d:\\hieu\\hieu\\koimanagementwpf\\accountmanagement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FE390B9D-F05D-4F35-A640-335061C9F894}|KoiManagementWPF\\KoiManagementWPF.csproj|solutionrelative:koimanagementwpf\\accountmanagement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE390B9D-F05D-4F35-A640-335061C9F894}|KoiManagementWPF\\KoiManagementWPF.csproj|d:\\hieu\\hieu\\koimanagementwpf\\koifishmanagement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE390B9D-F05D-4F35-A640-335061C9F894}|KoiManagementWPF\\KoiManagementWPF.csproj|solutionrelative:koimanagementwpf\\koifishmanagement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE390B9D-F05D-4F35-A640-335061C9F894}|KoiManagementWPF\\KoiManagementWPF.csproj|d:\\hieu\\hieu\\koimanagementwpf\\admindashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FE390B9D-F05D-4F35-A640-335061C9F894}|KoiManagementWPF\\KoiManagementWPF.csproj|solutionrelative:koimanagementwpf\\admindashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE390B9D-F05D-4F35-A640-335061C9F894}|KoiManagementWPF\\KoiManagementWPF.csproj|d:\\hieu\\hieu\\koimanagementwpf\\admindashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE390B9D-F05D-4F35-A640-335061C9F894}|KoiManagementWPF\\KoiManagementWPF.csproj|solutionrelative:koimanagementwpf\\admindashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE390B9D-F05D-4F35-A640-335061C9F894}|KoiManagementWPF\\KoiManagementWPF.csproj|d:\\hieu\\hieu\\koimanagementwpf\\advertisementmanagement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FE390B9D-F05D-4F35-A640-335061C9F894}|KoiManagementWPF\\KoiManagementWPF.csproj|solutionrelative:koimanagementwpf\\advertisementmanagement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE390B9D-F05D-4F35-A640-335061C9F894}|KoiManagementWPF\\KoiManagementWPF.csproj|d:\\hieu\\hieu\\koimanagementwpf\\accountmanagement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE390B9D-F05D-4F35-A640-335061C9F894}|KoiManagementWPF\\KoiManagementWPF.csproj|solutionrelative:koimanagementwpf\\accountmanagement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE390B9D-F05D-4F35-A640-335061C9F894}|KoiManagementWPF\\KoiManagementWPF.csproj|d:\\hieu\\hieu\\koimanagementwpf\\advertisementmanagement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE390B9D-F05D-4F35-A640-335061C9F894}|KoiManagementWPF\\KoiManagementWPF.csproj|solutionrelative:koimanagementwpf\\advertisementmanagement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED87B66-A27F-4C4B-ADE6-596D2D155864}|Services\\Services.csproj|d:\\hieu\\hieu\\services\\koifishservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED87B66-A27F-4C4B-ADE6-596D2D155864}|Services\\Services.csproj|solutionrelative:services\\koifishservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED87B66-A27F-4C4B-ADE6-596D2D155864}|Services\\Services.csproj|d:\\hieu\\hieu\\services\\fengshuielementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED87B66-A27F-4C4B-ADE6-596D2D155864}|Services\\Services.csproj|solutionrelative:services\\fengshuielementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED87B66-A27F-4C4B-ADE6-596D2D155864}|Services\\Services.csproj|d:\\hieu\\hieu\\services\\advertisementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED87B66-A27F-4C4B-ADE6-596D2D155864}|Services\\Services.csproj|solutionrelative:services\\advertisementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED87B66-A27F-4C4B-ADE6-596D2D155864}|Services\\Services.csproj|d:\\hieu\\hieu\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED87B66-A27F-4C4B-ADE6-596D2D155864}|Services\\Services.csproj|solutionrelative:services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED87B66-A27F-4C4B-ADE6-596D2D155864}|Services\\Services.csproj|d:\\hieu\\hieu\\services\\impl\\koifishserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED87B66-A27F-4C4B-ADE6-596D2D155864}|Services\\Services.csproj|solutionrelative:services\\impl\\koifishserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED87B66-A27F-4C4B-ADE6-596D2D155864}|Services\\Services.csproj|d:\\hieu\\hieu\\services\\impl\\fengshuielementserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED87B66-A27F-4C4B-ADE6-596D2D155864}|Services\\Services.csproj|solutionrelative:services\\impl\\fengshuielementserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED87B66-A27F-4C4B-ADE6-596D2D155864}|Services\\Services.csproj|d:\\hieu\\hieu\\services\\impl\\advertisementserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED87B66-A27F-4C4B-ADE6-596D2D155864}|Services\\Services.csproj|solutionrelative:services\\impl\\advertisementserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED87B66-A27F-4C4B-ADE6-596D2D155864}|Services\\Services.csproj|d:\\hieu\\hieu\\services\\impl\\accountserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED87B66-A27F-4C4B-ADE6-596D2D155864}|Services\\Services.csproj|solutionrelative:services\\impl\\accountserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F75C27-33AC-4268-844C-81DDF40A632A}|Repositories\\Repositories.csproj|d:\\hieu\\hieu\\repositories\\koifishrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F75C27-33AC-4268-844C-81DDF40A632A}|Repositories\\Repositories.csproj|solutionrelative:repositories\\koifishrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F75C27-33AC-4268-844C-81DDF40A632A}|Repositories\\Repositories.csproj|d:\\hieu\\hieu\\repositories\\fengshuielementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F75C27-33AC-4268-844C-81DDF40A632A}|Repositories\\Repositories.csproj|solutionrelative:repositories\\fengshuielementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F75C27-33AC-4268-844C-81DDF40A632A}|Repositories\\Repositories.csproj|d:\\hieu\\hieu\\repositories\\advertisementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F75C27-33AC-4268-844C-81DDF40A632A}|Repositories\\Repositories.csproj|solutionrelative:repositories\\advertisementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F75C27-33AC-4268-844C-81DDF40A632A}|Repositories\\Repositories.csproj|d:\\hieu\\hieu\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F75C27-33AC-4268-844C-81DDF40A632A}|Repositories\\Repositories.csproj|solutionrelative:repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F75C27-33AC-4268-844C-81DDF40A632A}|Repositories\\Repositories.csproj|d:\\hieu\\hieu\\repositories\\impl\\koifishrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F75C27-33AC-4268-844C-81DDF40A632A}|Repositories\\Repositories.csproj|solutionrelative:repositories\\impl\\koifishrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F75C27-33AC-4268-844C-81DDF40A632A}|Repositories\\Repositories.csproj|d:\\hieu\\hieu\\repositories\\impl\\fengshuielementrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F75C27-33AC-4268-844C-81DDF40A632A}|Repositories\\Repositories.csproj|solutionrelative:repositories\\impl\\fengshuielementrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F75C27-33AC-4268-844C-81DDF40A632A}|Repositories\\Repositories.csproj|d:\\hieu\\hieu\\repositories\\impl\\advertisementrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F75C27-33AC-4268-844C-81DDF40A632A}|Repositories\\Repositories.csproj|solutionrelative:repositories\\impl\\advertisementrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F75C27-33AC-4268-844C-81DDF40A632A}|Repositories\\Repositories.csproj|d:\\hieu\\hieu\\repositories\\impl\\accountrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F75C27-33AC-4268-844C-81DDF40A632A}|Repositories\\Repositories.csproj|solutionrelative:repositories\\impl\\accountrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09A54AF4-40EC-47F5-922C-B66E35F58AA7}|DAOs\\DAOs.csproj|d:\\hieu\\hieu\\daos\\impl\\accountdaoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09A54AF4-40EC-47F5-922C-B66E35F58AA7}|DAOs\\DAOs.csproj|solutionrelative:daos\\impl\\accountdaoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09A54AF4-40EC-47F5-922C-B66E35F58AA7}|DAOs\\DAOs.csproj|d:\\hieu\\hieu\\daos\\impl\\koifishdaoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09A54AF4-40EC-47F5-922C-B66E35F58AA7}|DAOs\\DAOs.csproj|solutionrelative:daos\\impl\\koifishdaoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09A54AF4-40EC-47F5-922C-B66E35F58AA7}|DAOs\\DAOs.csproj|d:\\hieu\\hieu\\daos\\impl\\fengshuielementdaoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09A54AF4-40EC-47F5-922C-B66E35F58AA7}|DAOs\\DAOs.csproj|solutionrelative:daos\\impl\\fengshuielementdaoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09A54AF4-40EC-47F5-922C-B66E35F58AA7}|DAOs\\DAOs.csproj|d:\\hieu\\hieu\\daos\\impl\\advertisementdaoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09A54AF4-40EC-47F5-922C-B66E35F58AA7}|DAOs\\DAOs.csproj|solutionrelative:daos\\impl\\advertisementdaoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09A54AF4-40EC-47F5-922C-B66E35F58AA7}|DAOs\\DAOs.csproj|d:\\hieu\\hieu\\daos\\koifishdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09A54AF4-40EC-47F5-922C-B66E35F58AA7}|DAOs\\DAOs.csproj|solutionrelative:daos\\koifishdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09A54AF4-40EC-47F5-922C-B66E35F58AA7}|DAOs\\DAOs.csproj|d:\\hieu\\hieu\\daos\\fengshuielementdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09A54AF4-40EC-47F5-922C-B66E35F58AA7}|DAOs\\DAOs.csproj|solutionrelative:daos\\fengshuielementdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09A54AF4-40EC-47F5-922C-B66E35F58AA7}|DAOs\\DAOs.csproj|d:\\hieu\\hieu\\daos\\advertisementdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09A54AF4-40EC-47F5-922C-B66E35F58AA7}|DAOs\\DAOs.csproj|solutionrelative:daos\\advertisementdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09A54AF4-40EC-47F5-922C-B66E35F58AA7}|DAOs\\DAOs.csproj|d:\\hieu\\hieu\\daos\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09A54AF4-40EC-47F5-922C-B66E35F58AA7}|DAOs\\DAOs.csproj|solutionrelative:daos\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FABDA56-8F6F-4D99-A1E0-C652EFAFD753}|BusinessObjects\\BusinessObjects.csproj|d:\\hieu\\hieu\\businessobjects\\context\\koimanagementsystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FABDA56-8F6F-4D99-A1E0-C652EFAFD753}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\context\\koimanagementsystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FABDA56-8F6F-4D99-A1E0-C652EFAFD753}|BusinessObjects\\BusinessObjects.csproj|d:\\hieu\\hieu\\businessobjects\\businessobjects.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6FABDA56-8F6F-4D99-A1E0-C652EFAFD753}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\businessobjects.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE390B9D-F05D-4F35-A640-335061C9F894}|KoiManagementWPF\\KoiManagementWPF.csproj|d:\\hieu\\hieu\\koimanagementwpf\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FE390B9D-F05D-4F35-A640-335061C9F894}|KoiManagementWPF\\KoiManagementWPF.csproj|solutionrelative:koimanagementwpf\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2064750209:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2125798652:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminDashboard.xaml",
+              "DocumentMoniker": "D:\\Hieu\\Hieu\\KoiManagementWPF\\AdminDashboard.xaml",
+              "RelativeDocumentMoniker": "KoiManagementWPF\\AdminDashboard.xaml",
+              "ToolTip": "D:\\Hieu\\Hieu\\KoiManagementWPF\\AdminDashboard.xaml",
+              "RelativeToolTip": "KoiManagementWPF\\AdminDashboard.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-30T15:43:45.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KoiFishManagement.xaml",
+              "DocumentMoniker": "D:\\Hieu\\Hieu\\KoiManagementWPF\\KoiFishManagement.xaml",
+              "RelativeDocumentMoniker": "KoiManagementWPF\\KoiFishManagement.xaml",
+              "ToolTip": "D:\\Hieu\\Hieu\\KoiManagementWPF\\KoiFishManagement.xaml",
+              "RelativeToolTip": "KoiManagementWPF\\KoiFishManagement.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-30T15:31:11.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KoiFishManagement.xaml.cs",
+              "DocumentMoniker": "D:\\Hieu\\Hieu\\KoiManagementWPF\\KoiFishManagement.xaml.cs",
+              "RelativeDocumentMoniker": "KoiManagementWPF\\KoiFishManagement.xaml.cs",
+              "ToolTip": "D:\\Hieu\\Hieu\\KoiManagementWPF\\KoiFishManagement.xaml.cs",
+              "RelativeToolTip": "KoiManagementWPF\\KoiFishManagement.xaml.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:18:32.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountManagement.xaml",
+              "DocumentMoniker": "D:\\Hieu\\Hieu\\KoiManagementWPF\\AccountManagement.xaml",
+              "RelativeDocumentMoniker": "KoiManagementWPF\\AccountManagement.xaml",
+              "ToolTip": "D:\\Hieu\\Hieu\\KoiManagementWPF\\AccountManagement.xaml",
+              "RelativeToolTip": "KoiManagementWPF\\AccountManagement.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-30T15:17:20.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdvertisementManagement.xaml",
+              "DocumentMoniker": "D:\\Hieu\\Hieu\\KoiManagementWPF\\AdvertisementManagement.xaml",
+              "RelativeDocumentMoniker": "KoiManagementWPF\\AdvertisementManagement.xaml",
+              "ToolTip": "D:\\Hieu\\Hieu\\KoiManagementWPF\\AdvertisementManagement.xaml",
+              "RelativeToolTip": "KoiManagementWPF\\AdvertisementManagement.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-30T15:41:23.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminDashboard.xaml.cs",
+              "DocumentMoniker": "D:\\Hieu\\Hieu\\KoiManagementWPF\\AdminDashboard.xaml.cs",
+              "RelativeDocumentMoniker": "KoiManagementWPF\\AdminDashboard.xaml.cs",
+              "ToolTip": "D:\\Hieu\\Hieu\\KoiManagementWPF\\AdminDashboard.xaml.cs",
+              "RelativeToolTip": "KoiManagementWPF\\AdminDashboard.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAApwCQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:45:28.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdvertisementManagement.xaml.cs",
+              "DocumentMoniker": "D:\\Hieu\\Hieu\\KoiManagementWPF\\AdvertisementManagement.xaml.cs",
+              "RelativeDocumentMoniker": "KoiManagementWPF\\AdvertisementManagement.xaml.cs",
+              "ToolTip": "D:\\Hieu\\Hieu\\KoiManagementWPF\\AdvertisementManagement.xaml.cs",
+              "RelativeToolTip": "KoiManagementWPF\\AdvertisementManagement.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:18:20.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccountManagement.xaml.cs",
+              "DocumentMoniker": "D:\\Hieu\\Hieu\\KoiManagementWPF\\AccountManagement.xaml.cs",
+              "RelativeDocumentMoniker": "KoiManagementWPF\\AccountManagement.xaml.cs",
+              "ToolTip": "D:\\Hieu\\Hieu\\KoiManagementWPF\\AccountManagement.xaml.cs",
+              "RelativeToolTip": "KoiManagementWPF\\AccountManagement.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:17:37.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "KoiFishService.cs",
+              "DocumentMoniker": "D:\\Hieu\\Hieu\\Services\\KoiFishService.cs",
+              "RelativeDocumentMoniker": "Services\\KoiFishService.cs",
+              "ToolTip": "D:\\Hieu\\Hieu\\Services\\KoiFishService.cs",
+              "RelativeToolTip": "Services\\KoiFishService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:17:05.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FengshuiElementService.cs",
+              "DocumentMoniker": "D:\\Hieu\\Hieu\\Services\\FengshuiElementService.cs",
+              "RelativeDocumentMoniker": "Services\\FengshuiElementService.cs",
+              "ToolTip": "D:\\Hieu\\Hieu\\Services\\FengshuiElementService.cs",
+              "RelativeToolTip": "Services\\FengshuiElementService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:17:01.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdvertisementService.cs",
+              "DocumentMoniker": "D:\\Hieu\\Hieu\\Services\\AdvertisementService.cs",
+              "RelativeDocumentMoniker": "Services\\AdvertisementService.cs",
+              "ToolTip": "D:\\Hieu\\Hieu\\Services\\AdvertisementService.cs",
+              "RelativeToolTip": "Services\\AdvertisementService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:16:56.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "D:\\Hieu\\Hieu\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "Services\\AccountService.cs",
+              "ToolTip": "D:\\Hieu\\Hieu\\Services\\AccountService.cs",
+              "RelativeToolTip": "Services\\AccountService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:16:50.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "KoiFishServiceImpl.cs",
+              "DocumentMoniker": "D:\\Hieu\\Hieu\\Services\\Impl\\KoiFishServiceImpl.cs",
+              "RelativeDocumentMoniker": "Services\\Impl\\KoiFishServiceImpl.cs",
+              "ToolTip": "D:\\Hieu\\Hieu\\Services\\Impl\\KoiFishServiceImpl.cs",
+              "RelativeToolTip": "Services\\Impl\\KoiFishServiceImpl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:16:46.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FengshuiElementServiceImpl.cs",
+              "DocumentMoniker": "D:\\Hieu\\Hieu\\Services\\Impl\\FengshuiElementServiceImpl.cs",
+              "RelativeDocumentMoniker": "Services\\Impl\\FengshuiElementServiceImpl.cs",
+              "ToolTip": "D:\\Hieu\\Hieu\\Services\\Impl\\FengshuiElementServiceImpl.cs",
+              "RelativeToolTip": "Services\\Impl\\FengshuiElementServiceImpl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:16:41.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AdvertisementServiceImpl.cs",
+              "DocumentMoniker": "D:\\Hieu\\Hieu\\Services\\Impl\\AdvertisementServiceImpl.cs",
+              "RelativeDocumentMoniker": "Services\\Impl\\AdvertisementServiceImpl.cs",
+              "ToolTip": "D:\\Hieu\\Hieu\\Services\\Impl\\AdvertisementServiceImpl.cs",
+              "RelativeToolTip": "Services\\Impl\\AdvertisementServiceImpl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:16:37.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AccountServiceImpl.cs",
+              "DocumentMoniker": "D:\\Hieu\\Hieu\\Services\\Impl\\AccountServiceImpl.cs",
+              "RelativeDocumentMoniker": "Services\\Impl\\AccountServiceImpl.cs",
+              "ToolTip": "D:\\Hieu\\Hieu\\Services\\Impl\\AccountServiceImpl.cs",
+              "RelativeToolTip": "Services\\Impl\\AccountServiceImpl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:16:31.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "KoiFishRepository.cs",
+              "DocumentMoniker": "D:\\Hieu\\Hieu\\Repositories\\KoiFishRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\KoiFishRepository.cs",
+              "ToolTip": "D:\\Hieu\\Hieu\\Repositories\\KoiFishRepository.cs",
+              "RelativeToolTip": "Repositories\\KoiFishRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:16:20.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FengshuiElementRepository.cs",
+              "DocumentMoniker": "D:\\Hieu\\Hieu\\Repositories\\FengshuiElementRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\FengshuiElementRepository.cs",
+              "ToolTip": "D:\\Hieu\\Hieu\\Repositories\\FengshuiElementRepository.cs",
+              "RelativeToolTip": "Repositories\\FengshuiElementRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:16:15.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AdvertisementRepository.cs",
+              "DocumentMoniker": "D:\\Hieu\\Hieu\\Repositories\\AdvertisementRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\AdvertisementRepository.cs",
+              "ToolTip": "D:\\Hieu\\Hieu\\Repositories\\AdvertisementRepository.cs",
+              "RelativeToolTip": "Repositories\\AdvertisementRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:15:55.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "D:\\Hieu\\Hieu\\Repositories\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\AccountRepository.cs",
+              "ToolTip": "D:\\Hieu\\Hieu\\Repositories\\AccountRepository.cs",
+              "RelativeToolTip": "Repositories\\AccountRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:15:48.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "KoiFishRepositoryImpl.cs",
+              "DocumentMoniker": "D:\\Hieu\\Hieu\\Repositories\\Impl\\KoiFishRepositoryImpl.cs",
+              "RelativeDocumentMoniker": "Repositories\\Impl\\KoiFishRepositoryImpl.cs",
+              "ToolTip": "D:\\Hieu\\Hieu\\Repositories\\Impl\\KoiFishRepositoryImpl.cs",
+              "RelativeToolTip": "Repositories\\Impl\\KoiFishRepositoryImpl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:15:42.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FengshuiElementRepositoryImpl.cs",
+              "DocumentMoniker": "D:\\Hieu\\Hieu\\Repositories\\Impl\\FengshuiElementRepositoryImpl.cs",
+              "RelativeDocumentMoniker": "Repositories\\Impl\\FengshuiElementRepositoryImpl.cs",
+              "ToolTip": "D:\\Hieu\\Hieu\\Repositories\\Impl\\FengshuiElementRepositoryImpl.cs",
+              "RelativeToolTip": "Repositories\\Impl\\FengshuiElementRepositoryImpl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:15:33.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AdvertisementRepositoryImpl.cs",
+              "DocumentMoniker": "D:\\Hieu\\Hieu\\Repositories\\Impl\\AdvertisementRepositoryImpl.cs",
+              "RelativeDocumentMoniker": "Repositories\\Impl\\AdvertisementRepositoryImpl.cs",
+              "ToolTip": "D:\\Hieu\\Hieu\\Repositories\\Impl\\AdvertisementRepositoryImpl.cs",
+              "RelativeToolTip": "Repositories\\Impl\\AdvertisementRepositoryImpl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:15:25.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AccountRepositoryImpl.cs",
+              "DocumentMoniker": "D:\\Hieu\\Hieu\\Repositories\\Impl\\AccountRepositoryImpl.cs",
+              "RelativeDocumentMoniker": "Repositories\\Impl\\AccountRepositoryImpl.cs",
+              "ToolTip": "D:\\Hieu\\Hieu\\Repositories\\Impl\\AccountRepositoryImpl.cs",
+              "RelativeToolTip": "Repositories\\Impl\\AccountRepositoryImpl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:15:19.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "KoiFishDAO.cs",
+              "DocumentMoniker": "D:\\Hieu\\Hieu\\DAOs\\KoiFishDAO.cs",
+              "RelativeDocumentMoniker": "DAOs\\KoiFishDAO.cs",
+              "ToolTip": "D:\\Hieu\\Hieu\\DAOs\\KoiFishDAO.cs",
+              "RelativeToolTip": "DAOs\\KoiFishDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:13:25.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AccountDAOImpl.cs",
+              "DocumentMoniker": "D:\\Hieu\\Hieu\\DAOs\\Impl\\AccountDAOImpl.cs",
+              "RelativeDocumentMoniker": "DAOs\\Impl\\AccountDAOImpl.cs",
+              "ToolTip": "D:\\Hieu\\Hieu\\DAOs\\Impl\\AccountDAOImpl.cs",
+              "RelativeToolTip": "DAOs\\Impl\\AccountDAOImpl.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:09:48.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AdvertisementDAOImpl.cs",
+              "DocumentMoniker": "D:\\Hieu\\Hieu\\DAOs\\Impl\\AdvertisementDAOImpl.cs",
+              "RelativeDocumentMoniker": "DAOs\\Impl\\AdvertisementDAOImpl.cs",
+              "ToolTip": "D:\\Hieu\\Hieu\\DAOs\\Impl\\AdvertisementDAOImpl.cs",
+              "RelativeToolTip": "DAOs\\Impl\\AdvertisementDAOImpl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:10:10.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FengshuiElementDAOImpl.cs",
+              "DocumentMoniker": "D:\\Hieu\\Hieu\\DAOs\\Impl\\FengshuiElementDAOImpl.cs",
+              "RelativeDocumentMoniker": "DAOs\\Impl\\FengshuiElementDAOImpl.cs",
+              "ToolTip": "D:\\Hieu\\Hieu\\DAOs\\Impl\\FengshuiElementDAOImpl.cs",
+              "RelativeToolTip": "DAOs\\Impl\\FengshuiElementDAOImpl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:12:27.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "KoiFishDAOImpl.cs",
+              "DocumentMoniker": "D:\\Hieu\\Hieu\\DAOs\\Impl\\KoiFishDAOImpl.cs",
+              "RelativeDocumentMoniker": "DAOs\\Impl\\KoiFishDAOImpl.cs",
+              "ToolTip": "D:\\Hieu\\Hieu\\DAOs\\Impl\\KoiFishDAOImpl.cs",
+              "RelativeToolTip": "DAOs\\Impl\\KoiFishDAOImpl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:12:48.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FengshuiElementDAO.cs",
+              "DocumentMoniker": "D:\\Hieu\\Hieu\\DAOs\\FengshuiElementDAO.cs",
+              "RelativeDocumentMoniker": "DAOs\\FengshuiElementDAO.cs",
+              "ToolTip": "D:\\Hieu\\Hieu\\DAOs\\FengshuiElementDAO.cs",
+              "RelativeToolTip": "DAOs\\FengshuiElementDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:13:18.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AdvertisementDAO.cs",
+              "DocumentMoniker": "D:\\Hieu\\Hieu\\DAOs\\AdvertisementDAO.cs",
+              "RelativeDocumentMoniker": "DAOs\\AdvertisementDAO.cs",
+              "ToolTip": "D:\\Hieu\\Hieu\\DAOs\\AdvertisementDAO.cs",
+              "RelativeToolTip": "DAOs\\AdvertisementDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:13:13.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AccountDAO.cs",
+              "DocumentMoniker": "D:\\Hieu\\Hieu\\DAOs\\AccountDAO.cs",
+              "RelativeDocumentMoniker": "DAOs\\AccountDAO.cs",
+              "ToolTip": "D:\\Hieu\\Hieu\\DAOs\\AccountDAO.cs",
+              "RelativeToolTip": "DAOs\\AccountDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:13:07.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "KoiManagementSystemContext.cs",
+              "DocumentMoniker": "D:\\Hieu\\Hieu\\BusinessObjects\\Context\\KoiManagementSystemContext.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Context\\KoiManagementSystemContext.cs",
+              "ToolTip": "D:\\Hieu\\Hieu\\BusinessObjects\\Context\\KoiManagementSystemContext.cs",
+              "RelativeToolTip": "BusinessObjects\\Context\\KoiManagementSystemContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:09:29.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "BusinessObjects",
+              "DocumentMoniker": "D:\\Hieu\\Hieu\\BusinessObjects\\BusinessObjects.csproj",
+              "RelativeDocumentMoniker": "BusinessObjects\\BusinessObjects.csproj",
+              "ToolTip": "D:\\Hieu\\Hieu\\BusinessObjects\\BusinessObjects.csproj",
+              "RelativeToolTip": "BusinessObjects\\BusinessObjects.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-30T15:09:16.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Login.xaml",
+              "DocumentMoniker": "D:\\Hieu\\Hieu\\KoiManagementWPF\\Login.xaml",
+              "RelativeDocumentMoniker": "KoiManagementWPF\\Login.xaml",
+              "ToolTip": "D:\\Hieu\\Hieu\\KoiManagementWPF\\Login.xaml",
+              "RelativeToolTip": "KoiManagementWPF\\Login.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-30T14:58:49.674Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 862,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+﻿<Window x:Class="KoiManagementWPF.AccountManagement"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KoiManagementWPF"
+        mc:Ignorable="d"
+        Title="AccountManagement" Height="500" Width="800">
+    <Grid>
+        <DataGrid x:Name="AccountGrid" HorizontalAlignment="Left" Height="205" Margin="197,219,0,0" VerticalAlignment="Top" Width="571" d:ItemsSource="{d:SampleData ItemCount=5}" SelectionChanged="AccountGrid_SelectionChanged_1"/>
+        <Button Content="Create" HorizontalAlignment="Left" Height="37" Margin="49,219,0,0" VerticalAlignment="Top" Width="106" Click="CreateButton_Click" Background="#FF71C285"/>
+        <Button Content="Update" HorizontalAlignment="Left" Height="37" Margin="49,275,0,0" VerticalAlignment="Top" Width="106" Click="UpdateButton_Click" Background="#FFBDC25A"/>
+        <Button Content="Delete" HorizontalAlignment="Left" Height="37" Margin="49,331,0,0" VerticalAlignment="Top" Width="106" Click="DeleteButton_Click" Background="#FFCF6C6C"/>
+        <Button Content="Back" HorizontalAlignment="Left" Height="37" Margin="49,387,0,0" VerticalAlignment="Top" Width="106" Click="BackButton_Click" Background="#FFCBC9C9"/>
+        <Label Content="Account management" HorizontalAlignment="Left" Height="46" Margin="49,22,0,0" VerticalAlignment="Top" Width="296" FontWeight="Bold" FontSize="24"/>
+        <TextBox x:Name="txtUsername" HorizontalAlignment="Left" Height="26" Margin="137,90,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="170"/>
+        <Label Content="Username" HorizontalAlignment="Left" Margin="49,90,0,0" VerticalAlignment="Top" Width="72" FontWeight="Bold"/>
+        <Label Content="Role" HorizontalAlignment="Left" Margin="429,90,0,0" VerticalAlignment="Top" Width="72" FontWeight="Bold"/>
+        <TextBox x:Name="txtRoleId" HorizontalAlignment="Left" Height="26" Margin="482,90,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="170"/>
+        <Label Content="Email" HorizontalAlignment="Left" Margin="49,140,0,0" VerticalAlignment="Top" Width="72" FontWeight="Bold"/>
+        <TextBox x:Name="txtEmail" HorizontalAlignment="Left" Height="26" Margin="137,140,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="170"/>
+        <Label Content="Password" HorizontalAlignment="Left" Margin="400,140,0,0" VerticalAlignment="Top" Width="72" FontWeight="Bold"/>
+        <TextBox x:Name="txtPassword" HorizontalAlignment="Left" Height="26" Margin="482,140,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="170"/>
+
+    </Grid>
+</Window>
